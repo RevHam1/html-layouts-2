@@ -1,0 +1,47 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(199, 191, 191);
+}
+
+section {
+    height: 90%;
+    width: 90%;
+    background-color: white;
+    margin: 2%;
+    padding: 1%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60%;
+    width: 60%;
+    padding-top: 3%;
+}
+
+p {
+    font-size: 20pt;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.b1 {
+    height: 5vh;
+    width: 5vw;
+    background-color: red;
+    color: white;
+    font-size: 10pt;
+    margin-left: 3%;
+}
+
+.b2 {
+    height: 5vh;
+    width: 5vw;
+    background-color: rgb(122, 122, 235);
+    color: white;
+    font-size: 10pt;
+    
+    
+
